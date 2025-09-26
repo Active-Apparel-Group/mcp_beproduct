@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mcp-beproduct": {
+      "command": "python",
+      "args": ["-m", "mcp_beproduct.server"],
+      "env": {},
+      "disabled": false
+    }
+  }
+}
